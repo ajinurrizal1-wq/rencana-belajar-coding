@@ -3,4 +3,4 @@ RENCANA BELAJAR
 -belajar dasar-dasar html
 -belajar css
 -belajar javascript
--kolaborasi dengan teman
+-resolusi
